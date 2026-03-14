@@ -1,8 +1,9 @@
 public class Carro {
 
+
     String modelo;
     int velocidadeMaxima;
-    String Cor;
+    String cor;
     Double peso;
     Boolean automatico;
     short ano;
